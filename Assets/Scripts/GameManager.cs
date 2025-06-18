@@ -8,8 +8,8 @@ public class GameManager : MonoBehaviour
     public Text timerText;
 
     [Header("UI Screens (Canvas-based Images)")]
-    public GameObject winScreenUI;      // UI Image for Win
-    public GameObject loseScreenUI;     // UI Image for Lose
+    public GameObject winScreenUI;     
+    public GameObject loseScreenUI;     
 
     public GameObject spaceshipPrefab;
     public GameObject retryButton;
